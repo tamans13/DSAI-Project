@@ -44,7 +44,7 @@ According to our AI analysis, our main data driven insight is that job category 
 
 ## Contributions
 * @tamans13 - Exploratory Data Analysis, Decision Tree, Data Formatting, Slides
-* jiaqi - Data Extraction & Cleaning, Exploratory Data Analysis, Random Forest, Slides
+* @jiaqqii - Data Extraction & Cleaning, Exploratory Data Analysis, Random Forest, Slides
 * raashi - Extreme Gradient Boosting, Video Recording
 
 ## References
