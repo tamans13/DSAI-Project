@@ -38,7 +38,7 @@ According to our AI analysis, our main data driven insight is that job category 
 ## Conclusion
 * Job category and experience level are the most important variables in predicting amount of salary received.
 * This will provide people looking for jobs with relevant information to filter out jobs that may be lower paying.
-* The best model performance is
+* All models have relatively the same performance.
 * This may not be guaranteed in terms of accuracy as we may not have considered all possible factors affecting amount of salary received due to lack of knowledge.
 * From Exploratory Data Analysis, we found that ???
 
