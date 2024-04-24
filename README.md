@@ -22,7 +22,7 @@ Reference: [https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-d
 * Are we able to predict how relatively high or low of a salary an employee would receive based on selected variables?
 * Which model would be the best to predict it?
 
-The objective of this project is to see how the features of both an employee and a company affects the salary received by an employee and determine which variable has the highest correlation to the amount of salary received. By finding the most important variables, we will be able to provide information to people finding jobs on the job category/type of company/work setting they should target for a higher salary, or how much salary they can expect based on their experience level. We are going to do this by using 4 different machine learning models.
+The objective of this project is to see how the features of both an employee and a company affects the salary received by an employee and determine which variable has the highest correlation to the amount of salary received. By finding the most important variables, we will be able to provide information to people finding jobs on the job category/type of company/work setting they should target for a higher salary, or how much salary they can expect based on their experience level. We are going to do this by using 3 different machine learning models.
 
 ## Machine Learning Models
   1. Decision Tree
@@ -33,19 +33,18 @@ The objective of this project is to see how the features of both an employee and
 F1-Score (Micro)
 
 ## Recommendations
-According to our AI analysis, our main data driven insight is that job category and experience level are the two most important variables that affect the amount of salary received. As such, we recommend people looking for jobs in the data field to do their research on which job categories are higher paying, and to manage their expectations on the amount of salary received as per their experience level. Furthermore, the usage of more machine learning tools is recommended as we may not have considered all the possible factors due to lack of knowledge. It is also recommended to use more than one performance metrics when comparing the machine learning models.
+According to our AI analysis, our main data-driven insight is that job category and experience level are the two most important variables that affect the amount of salary received. As such, we recommend people looking for jobs in the data field to do their research on which job categories are higher paying, and to manage their expectations on the amount of salary received as per their experience level. Furthermore, the usage of more machine learning tools is recommended as we may not have considered all the possible factors due to lack of knowledge. It is also recommended to use more than one performance metrics when comparing the machine learning models.
 
 ## Conclusion
 * Job category and experience level are the most important variables in predicting amount of salary received.
 * This will provide people looking for jobs with relevant information to filter out jobs that may be lower paying.
 * All models have relatively the same performance.
 * This may not be guaranteed in terms of accuracy as we may not have considered all possible factors affecting amount of salary received due to lack of knowledge.
-* From Exploratory Data Analysis, we found that ???
 
 ## Contributions
-* @tamans13 - Exploratory Data Analysis, Decision Tree, Data Formatting, Slides
-* @jiaqqii - Data Extraction & Cleaning, Exploratory Data Analysis, Random Forest, Slides
-* raashi - Extreme Gradient Boosting, Video Recording
+* @tamans13 - Exploratory Data Analysis, Decision Tree, Data Formatting, Video Recording
+* @jiaqqii - Data Extraction & Cleaning, Exploratory Data Analysis, Random Forest, Video Recording, Slides
+* raashi - Extreme Gradient Boosting, Video Recording, Slides
 
 ## References
 * [https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024](https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024)
