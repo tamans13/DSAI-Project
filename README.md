@@ -44,7 +44,7 @@ According to our AI analysis, our main data-driven insight is that job category 
 ## Contributions
 * @tamans13 - Exploratory Data Analysis, Decision Tree, Data Formatting, Video Recording
 * @jiaqqii - Data Extraction & Cleaning, Exploratory Data Analysis, Random Forest, Video Recording, Slides
-* raashi - Extreme Gradient Boosting, Video Recording, Slides
+* @raashis - Extreme Gradient Boosting, Video Recording, Slides
 
 ## References
 * [https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024](https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024)
